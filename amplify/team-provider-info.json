@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-imoneymanager-staging-175711-authRole",
+      "UnauthRoleArn": "arn:aws:iam::244282714370:role/amplify-imoneymanager-staging-175711-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::244282714370:role/amplify-imoneymanager-staging-175711-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-imoneymanager-staging-175711-deployment",
+      "UnauthRoleName": "amplify-imoneymanager-staging-175711-unauthRole",
+      "StackName": "amplify-imoneymanager-staging-175711",
+      "StackId": "arn:aws:cloudformation:us-east-1:244282714370:stack/amplify-imoneymanager-staging-175711/a474cd00-bdae-11ec-b011-12e98256d437",
+      "AmplifyAppId": "dydoh4d37rqgv"
+    },
+    "categories": {
+      "auth": {
+        "iMoneyManager": {}
+      }
+    }
+  }
+}
